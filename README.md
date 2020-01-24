@@ -1,6 +1,15 @@
-# Git & Github
+# Git
 
->Explicação sobre Git & Github
+<p align="center"> Git é uma ferramenta que tem como objetivo de facilitar o controle de versão. </p>
+<p align="center"> Dessa forma, o Git fornece comandos que auxiliam no controle de versão do seu projeto, pois você ao trabalhar com um time de Devs, é interessante saber o que está sendo feito no projeto, ou talvez alguma alterção foi mal feita é necessário retornar o estado do código-fonte para um estado anteriormente feito e assim por diante. </p>
+
+# Github
+
+<p align="center"> Em poucas palavras, o Github é uma plataforma de hospedagem de código-fonte e além de permitir que usuários cadastrados na plataforma possam contribuir para projetos privados e Open Source. </p>
+
+<p align="center"> E essa hospedagem é feita em repositórios! Os repositórios é o local que é armazenado o código-fonte. </p>
+
+>Conclusão: Git e Github trabalham em conjunto para facilitar sua vida no desenvolvimento de seus projetos, quer sejam pequenos ou grandes! :D
 
 ## Instalação
 
