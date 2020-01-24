@@ -7,7 +7,7 @@
 
 <p> Em poucas palavras, o Github é uma plataforma de hospedagem de código-fonte e além de permitir que usuários cadastrados na plataforma possam contribuir para projetos privados e Open Source. </p>
 
-<p> E essa hospedagem é feita em repositórios! Os repositórios é o local que é armazenado o código-fonte. </p>
+<p> E essa hospedagem é feita em repositórios! Os repositórios são locais que armazenam o código-fonte. </p>
 
 >Conclusão: Git e Github trabalham em conjunto para facilitar sua vida no desenvolvimento de seus projetos, quer sejam pequenos ou grandes! :D
 
