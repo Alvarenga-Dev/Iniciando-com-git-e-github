@@ -17,3 +17,10 @@ https://git-scm.com/download
 - ```git show <ID do commit>``` Mostra uma ação feita no repositório juntamente com suas informações de forma específica.
 - ```git branch <nome da branch>``` Cria uma ramificação no seu repositório.
 - ```git branch``` Mostra todas as remificações.
+- ```git checkout``` Gerencia as remificações.
+- ```git merge``` Une as remificações.
+- ```git remote add origin <URL do repositório>``` Cria o vínculo com o seu repositório do github.
+- ```git remote -v``` Verifica seus repositórios.
+- ```git push``` Envia alterações locais para o repositório em nuvem.
+- ```git clone <URL do projeto>``` Clonar um projeto.
+- ```git pull``` Puxa as alterações do repositório em nuvem.
