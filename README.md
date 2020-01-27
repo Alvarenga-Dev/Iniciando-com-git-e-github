@@ -1,3 +1,8 @@
+<h1 align="center">Iniciando com Git e Github!</h1>
+<p align="center">
+    <img alt="banner" src="images/banner.png" width="500">
+</p>
+
 # Git
 
 <p> Git é uma ferramenta que tem como objetivo de facilitar o controle de versão. </p>
